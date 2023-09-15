@@ -1,4 +1,4 @@
-- Currently working on an environmental website/web app. Hidden for the time being until I have enough to properly showcase the project!
+- Currently working on an environmental website/web app.
 
 - 👋 <b>Hi, I’m @c0deV1king</b> <br>
       <p> I was a 3D art graduate but found it difficult to find motivation to create art professionally.
