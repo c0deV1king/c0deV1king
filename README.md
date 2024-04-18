@@ -1,4 +1,4 @@
-- Currently working on an environmental website/web app.
+Working on a space exploration webapp for a bootcamp.
 
 - 👋 <b>Hi, I’m @c0deV1king</b> <br>
       <p> I was a 3D art graduate but found it difficult to find motivation to create art professionally.
