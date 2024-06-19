@@ -15,4 +15,6 @@ JavaScript | HTML5 | CSS3 | Bootstrap | Git (Terminal) <br>
 
 ## Currently learning <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="32px" height="32px">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="32px" height="32px">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48px" height="32px"> <br>
-React | Vitejs | TailwindCSS
+React | Vitejs | TailwindCSS <br>
+<br>
+Thanks to <img src="https://cdn.prod.website-files.com/62574f5967985919f9e52f6f/626af147a985b345135bcef7_gc-allwhite.svg" width="92px" height="18px" background-color="white"> for providing me this learning experience.
