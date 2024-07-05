@@ -18,3 +18,6 @@ JavaScript | HTML5 | CSS3 | Bootstrap | Git (Terminal) <br>
 React | Vitejs | TailwindCSS <br>
 <br>
 Thanks to <img src="https://cdn.prod.website-files.com/62574f5967985919f9e52f6f/626af147a985b345135bcef7_gc-allwhite.svg" width="92px" height="18px" background-color="white"> for providing me this learning experience.
+
+## Current Projects <br>
+<img src="https://cdn.icon-icons.com/icons2/2079/PNG/512/wave_ocean_sea_water_surf_splash_icon_127324.png" width="32px" height="32px"> Aquatic endangered species card webapp, part of a bigger project.
