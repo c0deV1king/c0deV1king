@@ -20,5 +20,6 @@ React | Vitejs | TailwindCSS <br>
 Thanks to <img src="https://cdn.prod.website-files.com/62574f5967985919f9e52f6f/626af147a985b345135bcef7_gc-allwhite.svg" width="92px" height="18px" background-color="white"> for providing me this learning experience.
 
 ## Current Projects <br>
-<img src="https://cdn.icon-icons.com/icons2/2079/PNG/512/wave_ocean_sea_water_surf_splash_icon_127324.png" width="32px" height="32px"> Aquatic endangered species card webapp, part of a bigger project. <br>
-<img src="https://raw.githubusercontent.com/rsubtil/controller_icons/3.x/icon.png" width="32" height="32"> Currently private indie game in Godot.
+<img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="64" height="32"> Steam Achievement Tracker <br>
+<img src="https://cdn.icon-icons.com/icons2/2079/PNG/512/wave_ocean_sea_water_surf_splash_icon_127324.png" width="32px" height="32px"> Aquatic endangered species card webapp, part of a bigger project <br>
+<img src="https://raw.githubusercontent.com/rsubtil/controller_icons/3.x/icon.png" width="32" height="32"> Currently private indie game in Godot
