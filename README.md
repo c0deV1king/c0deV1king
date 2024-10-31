@@ -4,9 +4,9 @@ I am a Canadian coding student striving to become a developer. I enjoy the thoug
 ![Ocean Waves](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjY2w5a2FybGt6YXFsbjBpa3d3aGlyemlmZTV2eXd0amt3dTNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfjfPOe8DKptm/giphy.webp) <br>
 
 Take a look at my most recent project: <br>
-## Rocket Explorer 🚀
-_A simple webapp which allows the user to explore the solar system_ <br>
-![_Repo link_](https://github.com/c0deV1king/rocket-explorer)<br>
+## Steam Tracker 🏆
+_Steam tracker gives you a nice way to view your steam achievements and stats_ <br>
+→ ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo)<br>
 
 
 ## My tech knowledge <br>
@@ -19,5 +19,12 @@ React | Vitejs | TailwindCSS <br>
 <br>
 Thanks to <img src="https://cdn.prod.website-files.com/62574f5967985919f9e52f6f/626af147a985b345135bcef7_gc-allwhite.svg" width="92px" height="18px" background-color="white"> for providing me this learning experience.
 
+## Completed Projects <br>
+Rocket Explorer 🚀 → ![_Repo_](https://github.com/c0deV1king/rocket-explorer) <br>
+_A simple webapp which allows the user to explore the solar system_ <br>
+<br>
+Steam Tracker 🏆 → ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo) <br>
+_Steam tracker gives you a nice way to view your steam achievements and stats_ <br>
+
 ## Current Projects <br>
-<img src="https://community.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016" width="64" height="32"> Steam Achievement Tracker <br>
+TBD <br>
