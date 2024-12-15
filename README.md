@@ -13,6 +13,8 @@ _Steam tracker gives you a nice way to view your steam achievements and stats_ <
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="32px" height="32px">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="32px" height="32px">   |   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1024px-CSS3_logo_and_wordmark.svg.png" width="26px" height="32px">   |   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1920px-Bootstrap_logo.svg.png" width="36px" height="32px">   |   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2560px-Git-logo.svg.png" width="82px" height="32px"> <br>
 JavaScript | HTML5 | CSS3 | Bootstrap | Git (Terminal) <br>
 
+![c0dev1king's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dev1king&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
 ## Currently learning <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" width="32px" height="32px">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="32px" height="32px">  |  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48px" height="32px"> <br>
 React | Vitejs | TailwindCSS <br>
@@ -25,6 +27,8 @@ _A simple webapp which allows the user to explore the solar system_ <br>
 <br>
 Steam Tracker 🏆 → ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo) <br>
 _Steam tracker gives you a nice way to view your steam achievements and stats_ <br>
+
+![c0dev1king's Stats](https://github-readme-stats.vercel.app/api?username=c0dev1king&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 ## Current Projects <br>
 TBD <br>
