@@ -1,6 +1,6 @@
 Hello, I'm <b>Austin.</b> <br>
 
-I am a Canadian coding student striving to become a developer. I enjoy the thought and exploration of the unknown such as space, nature and the oceans... especially the oceans. You'll likely find that my personal projects usually end up on one of those topics. <br>
+I am a Canadian software developer looking to create awesome experiences for people interested in my work. I enjoy the thought and exploration of the unknown such as space, nature and the oceans... especially the oceans. You'll likely find that my personal projects usually end up on one of those topics. <br>
 <br>
 ![Ocean Waves](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjY2w5a2FybGt6YXFsbjBpa3d3aGlyemlmZTV2eXd0amt3dTNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfjfPOe8DKptm/giphy.webp) <br>
 
