@@ -5,9 +5,10 @@ I am a Canadian software developer looking to create awesome experiences for peo
 ![Ocean Waves](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjY2w5a2FybGt6YXFsbjBpa3d3aGlyemlmZTV2eXd0amt3dTNydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfjfPOe8DKptm/giphy.webp) <br>
 
 Take a look at my most recent project: <br>
-## Steam Tracker 🏆
-_Steam tracker allows you to view your steam games, achievements and a few stats. It also includes an achievement advisor which suggests games and achievements to play based on global achievement percentages_ <br>
-→ ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo)<br>
+## Steam Tracker w/ Full Backend 🏆
+_Steam tracker allows you to view your steam games and achievements. It also includes an achievement advisor which suggests games and achievements to play based on global achievement percentages_ <br>
+→ ![_Frontend Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo)<br>
+→ ![_Backend Repo_](https://github.com/c0deV1king/Steam-Tracker-Backend) <br>
 
 
 ## My tech stack <br>
@@ -26,9 +27,12 @@ Rocket Explorer 🚀 → ![_Repo_](https://github.com/c0deV1king/rocket-explorer
 _A simple webapp which allows the user to explore the solar system_ <br>
 <br>
 Steam Tracker 🏆 → ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Demo) <br>
-_Steam tracker allows you to view your steam games, achievements and a few stats. It also includes an achievement advisor which suggests games and achievements to play based on global achievement percentages_ <br>
+_Steam tracker allows you to view your steam games and achievements. It also includes an achievement advisor which suggests games and achievements to play based on global achievement percentages_ <br>
+<br>
+Steam Tracker Backend 🖥 → ![_Repo_](https://github.com/c0deV1king/Steam-Tracker-Backend) <br>
+_An extension to Steam Tracker. It now has a fully functional backend to handle the api requests as well as a database to store all the user data_ <br>
 
 ![c0dev1king's Stats](https://github-readme-stats.vercel.app/api?username=c0dev1king&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 ## Current Projects <br>
-Interactive Endangered Species Map 🦈 🪸
+TBD
