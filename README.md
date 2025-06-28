@@ -12,12 +12,12 @@ _Steam tracker allows you to view your steam games and achievements. It also inc
 
 
 ## My tech stack <br>
-![Success](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Tailwind&color=turquoise&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=HTML5&color=orange&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=CSS3&color=blue&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Bootstrap&color=indigo&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Git(Terminal)&color=orange&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=React&color=turquoise&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Netlify&color=teal&style=plastic) 
+![Success](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Tailwind&color=turquoise&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=HTML5&color=orange&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=CSS3&color=blue&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Bootstrap&color=indigo&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Git(Terminal)&color=orange&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=React&color=turquoise&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Netlify&color=teal&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&style=plastic)
 
 ![c0dev1king's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dev1king&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 ## Currently learning <br>
-![Success](https://img.shields.io/static/v1?label=&message=React&color=turquoise&style=plastic) ![Success](https://img.shields.io/static/v1?label=&message=Tailwind&color=turquoise&style=plastic)
+![Success](https://img.shields.io/static/v1?label=&message=Three.js&color=blue&style=plastic)
 <br>
 <br>
 Thanks to <img src="https://cdn.prod.website-files.com/62574f5967985919f9e52f6f/626af147a985b345135bcef7_gc-allwhite.svg" width="92px" height="18px" background-color="white"> for providing me this learning experience.
