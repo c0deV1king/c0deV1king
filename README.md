@@ -35,4 +35,4 @@ _An extension to Steam Tracker. It now has a fully functional backend to handle 
 ![c0dev1king's Stats](https://github-readme-stats.vercel.app/api?username=c0dev1king&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 ## Current Projects <br>
-TBD
+My personal portfolio 🖼️
